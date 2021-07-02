@@ -6,8 +6,7 @@ BERT Language models.
       <dt>Tokenization</dt>
       <dd>Pretokenized (Unidic SUW)</dd>
       <dt>Corpus</dt>
-      <dd>0.69GB</dd>
-      <dd>BCCWJ (only)</dd>
+      <dd>0.69 GB - BCCWJ (only)</dd>
     </dl>
   </li>
  </ul>
