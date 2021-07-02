@@ -1,7 +1,7 @@
 BERT Language models.
 
 <ul>
-  <li>BCCWJ-RoBERTa-base
+  <li>BCCWJ-RoBERTa-base (⚡ Under Training)
     <dl>
       <dt>Tokenization</dt>
       <dd>Pretokenized (Unidic SUW)</dd>
